@@ -1,6 +1,6 @@
 import React from "react";
 
-function ProductCard(product) {
+function ProductCard({ product }) {
   return (
     <div className="max-w-xs mx-auto bg-white shadow-lg rounded-lg overflow-hidden">
       <img
