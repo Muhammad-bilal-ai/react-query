@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { Inter } from "next/font/google";
-import { useData } from "@/util/useDataHook";
 import Products from "@/components/Products";
 
 const inter = Inter({ subsets: ["latin"] });
